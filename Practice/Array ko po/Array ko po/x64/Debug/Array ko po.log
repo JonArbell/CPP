@@ -1,0 +1,4 @@
+﻿  Array ko po.cpp
+D:\Arbell\Projects Programming\C++\Practice\Array ko po\Array ko po\Array ko po.cpp(67,28): warning C4305: 'initializing': truncation from 'double' to 'float'
+D:\Arbell\Projects Programming\C++\Practice\Array ko po\Array ko po\Array ko po.cpp(67,33): warning C4305: 'initializing': truncation from 'double' to 'float'
+  Array ko po.vcxproj -> D:\Arbell\Projects Programming\C++\Practice\Array ko po\x64\Debug\Array ko po.exe
